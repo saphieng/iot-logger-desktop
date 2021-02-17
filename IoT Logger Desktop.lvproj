@@ -172,6 +172,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="App_INI_GUID" Type="Str">{D8E105D8-E6E4-4DA2-AA8C-015EC652F045}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.SAPHI.com</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{F9957AD5-95DB-4E5D-A9EB-558C6D3156E0}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">IoT Logger</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -180,7 +181,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="Bld_localDestDir" Type="Path">/C/Builds/IoT Logger/Exe</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{504E697A-8B59-49F9-A321-86E65A0A8206}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Builds/IoT Logger/Exe/Application.exe</Property>
@@ -192,7 +193,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Graphics/Asset 4avatar.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A11F936F-6815-47C2-85A8-999BB6F60D08}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{270F1ECB-EBD0-4842-B95E-3123050F3D0B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/IoT Logger Main.vi</Property>
@@ -263,7 +264,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="INST_defaultDir" Type="Str">{69E2B3A8-D767-46D0-9444-4A6F75B4AD26}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">IoT Logger Desktop</Property>
-				<Property Name="INST_productVersion" Type="Str">0.0.2</Property>
+				<Property Name="INST_productVersion" Type="Str">0.0.3</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018005</Property>
 				<Property Name="MSI_arpCompany" Type="Str">SAPHI</Property>
