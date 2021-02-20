@@ -181,7 +181,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="Bld_localDestDir" Type="Path">/C/Builds/IoT Logger/Exe</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{504E697A-8B59-49F9-A321-86E65A0A8206}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Builds/IoT Logger/Exe/Application.exe</Property>
@@ -264,7 +264,7 @@ UDP does offer the ability to "broadcast" data across a network--simply specify 
 				<Property Name="INST_defaultDir" Type="Str">{69E2B3A8-D767-46D0-9444-4A6F75B4AD26}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">IoT Logger Desktop</Property>
-				<Property Name="INST_productVersion" Type="Str">0.0.4</Property>
+				<Property Name="INST_productVersion" Type="Str">0.0.5</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018005</Property>
 				<Property Name="MSI_arpCompany" Type="Str">SAPHI</Property>
